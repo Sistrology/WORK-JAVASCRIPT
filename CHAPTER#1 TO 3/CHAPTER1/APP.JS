@@ -1,0 +1,6 @@
+// alert("WELCOME")
+//  alert("Error! Please enter a valid password")
+// alert("Welcome to Js land...                                                                       Happy Cooding!")
+// alert("Welcome to Js land...")
+// alert("Hello.. I can run JS through my web browser's console")
+// alert("BEAUTIFUL FLOWER")
